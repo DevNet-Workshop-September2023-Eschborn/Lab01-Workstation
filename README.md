@@ -41,8 +41,9 @@
 1. Use your RDP Client to connect to your Workstation
 2. Cancel the Authentication Request
 3. Click through the Welcome Wizard until the workstation looks like Task 4
-4. It should look like this 
+4. It should look like this (if you see a login then use your wsuserxx with the provided password)
 <img width="1498" alt="image" src="https://user-images.githubusercontent.com/66415321/233561573-40d7b609-4dd3-4ba5-8cfd-11a554165182.png">
+
 
 ### Open Apps
 1. Click on Activities in the top right corner and open Postman (First start of the App will take a few seconds)
